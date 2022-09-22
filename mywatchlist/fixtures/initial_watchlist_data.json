@@ -1,0 +1,112 @@
+[
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+     },
+     {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    },
+    {
+        "model": "mywatchlist.watchlistitem",
+        "pk": 1,
+        "fields": {
+            "watched" : "Watched",
+            "title" : "Interstellar",
+            "rating" : 5,
+            "release_date" : "2014-11-6",
+            "review" : "Very mesmerizing."
+        }
+    }
+]
