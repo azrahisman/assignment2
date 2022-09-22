@@ -12,101 +12,101 @@
      },
      {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 2,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
+            "title" : "Top Gun: Maverick",
             "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "release_date" : "2022-5-27",
+            "review" : "Awesome thrill ride with an exhilarating aerial combat scenes."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 3,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
-            "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "title" : "Five Feet Apart",
+            "rating" : 4,
+            "release_date" : "2019-3-15",
+            "review" : "Interesting. Did a good job, though not 100% accurate, to potray CF in a movie"
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 4,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
-            "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "title" : "Inside Out",
+            "rating" : 4,
+            "release_date" : "2015-8-19",
+            "review" : "As usual, Disney does not disappoint. Quite interesting how they wrapped up human emotions in a cartoon."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 5,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
+            "title" : "Spirited Away",
             "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "release_date" : "2001-7-20",
+            "review" : "Interesting story line. The graphics were very beautfiul and mesmerizing for a movie made in 2001."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 6,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
+            "title" : "Sherlock Holmes: A Game of Shadows",
             "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "release_date" : "2011-12-23",
+            "review" : "Entertaining sequel from the first film. The sets were spectacular and cinematography was at its finest."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 7,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
-            "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "title" : "Alice in Wonderland",
+            "rating" : 4,
+            "release_date" : "2010-3-4",
+            "review" : "Exciting fantasy film with jaw-dropping sets and visuals."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 8,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
-            "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "title" : "Maleficent",
+            "rating" : 4,
+            "release_date" : "2014-6-4",
+            "review" : "Another viewpoint from the Sleeping Beauty film. Some scenes may be scary for little kids however the special effects were impressive."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 9,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
-            "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "title" : "The Platform",
+            "rating" : 4,
+            "release_date" : "2019-11-8",
+            "review" : "Thrilling. Includes some gore scenes."
         }
     },
     {
         "model": "mywatchlist.watchlistitem",
-        "pk": 1,
+        "pk": 10,
         "fields": {
             "watched" : "Watched",
-            "title" : "Interstellar",
-            "rating" : 5,
-            "release_date" : "2014-11-6",
-            "review" : "Very mesmerizing."
+            "title" : "The Invisible Man",
+            "rating" : 4,
+            "release_date" : "2020-2-26",
+            "review" : "Main character made the film very engaging. The plot was good and the tension was kept throughout the film."
         }
     }
 ]
