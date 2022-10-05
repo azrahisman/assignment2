@@ -1,16 +1,31 @@
 {% extends 'base.html' %}
 
 {% block content %}
-<h5>Name: </h5>
-<p>Fill me!</p>
+  <h1>Assignment 4 PBP/PBD</h1>
+
+  <h5>Name: </h5>
+  <p>Azra Batrisyia Hisman</p>
+
+  <h5>Student ID: </h5>
+  <p>2106656592</p>
 
 <table>
     <tr>
-        <th>Item Name</th>
-        <th>Item Price</th>
+        <th>User</th>
+        <th>Date</th>
+        <th>Title</th>
         <th>Description</th>
     </tr>
     {% comment %} Add the data below this line {% endcomment %}
+    {% for item in list_item %}
+    <tr>
+        <th>{{item.watched}}</th>
+        <th>{{item.title}}</th>
+        <th>{{item.rating}}</th>
+        <th>{{item.release_date}}</th>
+        <th>{{item.review}}</th>
+    </tr>
+  {% endfor %}
 </table>
 
 {% endblock content %}
