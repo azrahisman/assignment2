@@ -3,10 +3,19 @@
         "model": "todolist.itemtodolist",
         "pk": 1,
         "fields": {
-            "user": "Azra",
+            "user": "1",
             "date": "2022-09-20",
             "title": "Study for quiz",
             "description": "Operating System quiz. Refer to slides."
+        }
+     },
+     {
+        "model": "todolist.user",
+        "pk": 1,
+        "fields": {
+            "first_name": "Azra",
+            "last_name": "Hisman",
+            "email": "azra.batrisyia11@ui.ac.id"
         }
      },
      {
